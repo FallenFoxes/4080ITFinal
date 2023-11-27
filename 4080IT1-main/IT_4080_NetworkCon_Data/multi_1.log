@@ -1,0 +1,438 @@
+Mono path[0] = 'C:/Users/mcclimge1/IT_4080_NetworkCon/4080IT1-main/IT_4080_NetworkCon_Data/multi_Data/Managed'
+Mono config path = 'C:/Users/mcclimge1/IT_4080_NetworkCon/4080IT1-main/IT_4080_NetworkCon_Data/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 10.37.5.20
+Multi-casting "[IP] 10.37.5.20 [Port] 55002 [Flags] 2 [Guid] 2426158683 [EditorId] 1335725033 [Version] 1048832 [Id] WindowsPlayer(2,10297-LCBIT) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] IT_4080_NetworkCon" to [225.0.0.222:54997]...
+Initialize engine version: 2021.3.29f1 (204d6dc9ae1c)
+[Subsystems] Discovering subsystems at path C:/Users/mcclimge1/IT_4080_NetworkCon/4080IT1-main/IT_4080_NetworkCon_Data/multi_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e92)
+    Vendor:   Intel
+    VRAM:     3967 MB
+    Driver:   31.0.101.2115
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.147 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.786300 ms
+[Host 0]: !! Server Started !!
+[Host 0]: I am a Server! 0
+[Host 0]: I am a Host! 0/0
+[Host 0]: I am a Client! 0
+[Host 0]: !! Client Started !!
+[Host 0]: I am a Server! 0
+[Host 0]: I am a Host! 0/0
+[Host 0]: I am a Client! 0
+[Host 0]: Client 0 connected to the server
+[Host 0]: I have connected 0
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.430700 ms
+[Host 0]: player count = 1
+Unloading 8 unused Assets / (2.7 KB). Loaded Objects now: 1925.
+Memory consumption went from 45.3 MB to 45.3 MB.
+Total: 7.091900 ms (FindLiveObjects: 0.514000 ms CreateObjectMapping: 0.650400 ms MarkObjects: 5.688600 ms  DeleteObjects: 0.235900 ms)
+
+[Host 0]: Client 1 connected to the server
+[Host 0]: I have connected 1
+[Host 0]: Client 2 connected to the server
+[Host 0]: I have connected 2
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.281900 ms
+[Host 0][Player0]:  Awake
+[Host 0][Player0]:  OnNetworkSpawn
+[Host 0][Player0]:  Awake
+[Host 0][Player1]:  OnNetworkSpawn
+[Host 0][Player0]:  Awake
+[Host 0][Player2]:  OnNetworkSpawn
+[Host 0][Player0]:  Start
+[Host 0][Player1]:  Start
+[Host 0][Player2]:  Start
+Unloading 2 unused Assets / (7.2 KB). Loaded Objects now: 2120.
+Memory consumption went from 48.0 MB to 47.9 MB.
+Total: 6.508600 ms (FindLiveObjects: 0.233300 ms CreateObjectMapping: 0.103400 ms MarkObjects: 5.502900 ms  DeleteObjects: 0.667300 ms)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Client 1 disconnected to the server
+[Host 0]: I have disconnected 1
+[Host 0]: Client 2 disconnected to the server
+[Host 0]: I have disconnected 2
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: Requesting Fire
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x0002d] in C:\Users\mcclimge1\IT_4080_NetworkCon\Assets\Scripts\Player.cs:69 
+
+(Filename: C:/Users/mcclimge1/IT_4080_NetworkCon/Assets/Scripts/Player.cs Line: 69)
+
+[Host 0]: !! Client Stopped !!
+[Host 0]: I am a Server! 0
+[Host 0]: I am a Host! 0/0
+[Host 0]: I am a Client! 0
+[Host 0]: !! Server Stopped !!
+[Host 0]: I am a Server! 0
+[Host 0]: I am a Host! 0/0
+[Host 0]: I am a Client! 0
+-- MultiRun Application End Indicator --
+Setting up 6 worker threads for Enlighten.
+PlayerConnection::CleanupMemory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 2956 frames, [8.0 KB-16.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.0 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 41.5 KB
+      Overflow Count 12
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_AUDIO_FMOD stream thread]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 8.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 336 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AUDIO_FMOD (WASAPI) feeder thread]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 144 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Profiler.Dispatcher]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AUDIO_FMOD mixer thread]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+[ALLOC_MEMORYPROFILER]
+  Peak usage frame count: [32.0 KB-64.0 KB]: 114 frames, [64.0 KB-128.0 KB]: 2848 frames
+  Requested Block Size 1.0 MB
+  Peak Block count 1
+  Peak Allocated memory 71.0 KB
+  Peak Large allocation bytes 0 B
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 185
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 113 frames, [16.0 MB-32.0 MB]: 2849 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 19.6 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 2962 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 18.1 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 4
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 3
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 117 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 2843 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1435 frames, [0.5 MB-1.0 MB]: 1527 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.9 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 28
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 2962 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.3 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 113 frames, [1.0 MB-2.0 MB]: 2849 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.7 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 2962 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.8 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 114 frames, [16.0 KB-32.0 KB]: 2848 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 23.0 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_PROFILER]
+  Peak usage frame count: [16.0 KB-32.0 KB]: 2962 frames
+  Requested Block Size 16.0 MB
+  Peak Block count 1
+  Peak Allocated memory 29.0 KB
+  Peak Large allocation bytes 0 B
+    [ALLOC_PROFILER_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 406 B
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1698087905337,"processId":26292,"allocatedMemory":9754453,"memoryLabels":[{"Default":5997},{"Permanent":9580},{"NewDelete":8560},{"Thread":4228936},{"Manager":273673},{"VertexData":12},{"Geometry":400},{"Texture":8},{"Shader":46006},{"Material":12},{"GfxDevice":26312},{"Animation":144},{"Audio":2744},{"FontEngine":160},{"Physics":188},{"Serialization":480},{"Input":13944},{"JobScheduler":168},{"Mono":24},{"ScriptingNativeRuntime":160},{"BaseObject":821108},{"Resource":496},{"Renderer":1276},{"Transform":8},{"File":584},{"WebCam":24},{"Culling":24},{"Terrain":609},{"Wind":12},{"STL":36},{"String":3048},{"DynamicArray":15616},{"HashMap":5400},{"Utility":3073},{"PoolAlloc":972},{"TypeTree":1728},{"ScriptManager":48},{"RuntimeInitializeOnLoadManager":56},{"SpriteAtlas":92},{"GI":2940},{"Unet":16},{"Director":4064},{"WebRequest":532},{"VR":24065},{"SceneManager":312},{"Video":20},{"LazyScriptCache":32},{"NativeArray":4196444},{"Camera":13},{"Secure":1},{"SerializationCache":316},{"APIUpdating":4168},{"Subsystems":184},{"VirtualTexturing":49596},{"AssetReference":32}]}

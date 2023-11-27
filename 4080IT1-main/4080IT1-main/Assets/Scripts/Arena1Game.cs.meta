@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 970c76b3bdd92e04d87e3c5215dd0e17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hostPrefab: {fileID: 6471090072922008732, guid: 014e8ad3a14f5184c9f179e9347589d9, type: 3}
+  - clientPrefab: {fileID: 6263622483069349608, guid: 478beb4fdc52a664894e1e835c188842, type: 3}
+  - arenaCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
