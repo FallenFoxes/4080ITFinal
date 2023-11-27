@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "IT_4080_NetworkCon.sln"
+    "dotnet.defaultSolution": "4080ITFinal.sln"
 }
